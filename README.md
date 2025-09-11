@@ -12,7 +12,8 @@
 - **修了日**：2025年9月10日  
 - **習得スキル**：コンピュータ倫理学、生成AI  
 - **修了証ID**：`068efb3b447c84ff893dc9383812125e704401516f5e2566f500460f50ed0409`
-![生成AI時代の倫理](https://github.com/user-attachments/assets/0661497b-7848-4790-879c-a2705ad53ea7)
+![生成AIの概念の概要](https://github.com/user-attachments/assets/93110864-c74b-4615-994d-a08397d5c0df)
+
 
 
 ---
