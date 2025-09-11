@@ -15,7 +15,8 @@ It emphasizes not only the power of generative AI, but the responsibility that c
 - Generative AI  
 **Certificate ID**: `068efb3b447c84ff893dc9383812125e704401516f5e2566f500460f50ed0409`
 
-![Certificate Image](./certificate.jpg) <!-- 画像ファイル名に合わせて修正 -->
+![生成AI時代の倫理](https://github.com/user-attachments/assets/5cc68c94-16d1-49fa-99fa-b55c40405acb)
+
 
 ---
 
