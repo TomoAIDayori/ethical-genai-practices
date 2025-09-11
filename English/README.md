@@ -39,10 +39,15 @@ This course sharpened my mindset as an **AI practitioner who prioritizes respons
 
 ---
 
-## 💬 Let's Connect
+## 🧑‍💻 Creator
 
-If you're working on AI products and care about building responsibly — reach out.  
-I'm open to collaboration, audits, or ethical reviews for AI projects.
+[Tomo AI Dayori](https://github.com/TomoAIDayori)
+
+Check out my portfolio and AI tool development updates too!
+
+
+## Feel free to reach out
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
 
 ---
 
