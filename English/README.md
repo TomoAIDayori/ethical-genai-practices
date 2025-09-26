@@ -40,16 +40,4 @@ This course sharpened my mindset as an **AI practitioner who prioritizes respons
 
 ---
 
-## 🧑‍💻 Creator
-
-[Tomo AI Dayori](https://github.com/TomoAIDayori)
-
-Check out my portfolio and AI tool development updates too!
-
-
-## Feel free to reach out
-[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
-
----
-
 > “Technology alone is not enough.” – Steve Jobs
